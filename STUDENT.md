@@ -1,13 +1,13 @@
 # Thông tin học viên
 
-- Họ và tên: <<>>
-- MSHV: <<>>
-- Lớp (L2 / L3 / khác): <<>>
-- Tài khoản GitHub: <<>>
-- Repo bài nộp (URL): <<>>
-- Commit chốt bài (hash): <<>>
-- Máy: <<hệ điều hành, GPU (CUDA / MPS / không có)>>
-- CVAT (Docker): <<phiên bản, ví dụ v2.81.0>>
+- Họ và tên: Nguyễn Thị Minh Trang
+- MSHV: 2A202603107
+- Lớp (L2 / L3 / khác): Cohort 5A (L2-L3)
+- Tài khoản GitHub: MTrang0702
+- Repo bài nộp (URL): https://github.com/MTrang0702/K5-L23-DAY08-2A202603107-NguyenThiMinhTrang-AIPrelabel
+- Commit chốt bài (hash): <<chưa chốt>>
+- Máy: Windows 11, CPU (không GPU)
+- CVAT (Docker): v2.81.0 (localhost:9080)
 
 ## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
 

@@ -10,3 +10,6 @@ models/*
 *.onnx
 _review/
 *.ts
+
+cvat-2.81.0/
+day08_setup.py

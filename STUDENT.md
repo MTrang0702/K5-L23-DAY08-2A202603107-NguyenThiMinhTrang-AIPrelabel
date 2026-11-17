@@ -2,7 +2,7 @@
 
 - Họ và tên: Nguyễn Thị Minh Trang
 - MSHV: 2A202603107
-- Lớp (L2 / L3 / khác): Cohort 5A (L2-L3)
+- Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: MTrang0702
 - Repo bài nộp (URL): https://github.com/MTrang0702/K5-L23-DAY08-2A202603107-NguyenThiMinhTrang-AIPrelabel
 - Commit chốt bài (hash): <<chưa chốt>>

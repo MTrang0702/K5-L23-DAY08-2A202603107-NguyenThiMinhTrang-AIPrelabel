@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_036.jpg,cau_hoi_mo,Xe dap dien va xe may dien nho chua ro phan loai,Phan loai dua vao ban dap: co ban dap dap chan tinh bicycle; xe thuan dong co dien khong ban dap tinh motorbike,Muc 2: bicycle chi gom xe co ban dap; xe may dien khong ban dap xep vao motorbike,v1.1
+CAL-02,img_020.jpg,loi_may,Xe buyt o xa bi YOLO26 gan nham thanh truck do duoi xe vuong,Sua thanh bus; nhan dien bang cuc dieu hoa tren noc va cua so kinh hanh khach,Muc 2: xe khach/xe buyt co dan nong dieu hoa tren noc va kinh hong la bus du goc chup tu phia sau,v1.1
+CAL-03,img_012.jpg,cau_hoi_mo,Tai xe xe ba banh ngoi sau kinh chan gio bi khuat mot phan,Bat buoc gan 1 box person rieng cho tai xe neu nhin thay >= 20% co the,Muc 4.1: Nguoi lai tuk-tuk va xich lo luon ve box person rieng de len box three_wheeler,v1.1

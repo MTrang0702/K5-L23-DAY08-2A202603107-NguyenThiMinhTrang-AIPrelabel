@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: MTrang0702
 - Repo bài nộp (URL): https://github.com/MTrang0702/K5-L23-DAY08-2A202603107-NguyenThiMinhTrang-AIPrelabel
-- Commit chốt bài (hash): 5ee22f4
+- Commit chốt bài (hash): 68a448d
 - Máy: Windows 11, CPU (không GPU)
 - CVAT (Docker): v2.81.0 (localhost:9080)
 
